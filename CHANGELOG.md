@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-25)
+## Unreleased (2024-10-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dd5ecf0`](https://github.com/stdlib-js/stdlib/commit/dd5ecf0a231b19a656f4024a79a0b182e42d69e9) - **docs:** fix comments _(by Athan Reines)_
 -   [`ea972a9`](https://github.com/stdlib-js/stdlib/commit/ea972a96c02f99590f04a7f36cf577782f1713d2) - **docs:** fix notes _(by Athan Reines)_
 -   [`21234b9`](https://github.com/stdlib-js/stdlib/commit/21234b9591e0034916f84b49a48a4662d2da37a7) - **docs:** fix comments _(by Athan Reines)_
 -   [`91e37be`](https://github.com/stdlib-js/stdlib/commit/91e37be0fc89c072ee006802d5a568eab3003c9a) - **docs:** fix missing license headers _(by Athan Reines)_
