@@ -63,7 +63,7 @@ To view installation and usage instructions specific to each branch build, be su
 var sasum = require( '@stdlib/blas-base-wasm-sasum' );
 ```
 
-#### sasum.main( N, x, stride )
+#### sasum.main( N, x, strideX )
 
 Computes the sum of absolute values.
 
