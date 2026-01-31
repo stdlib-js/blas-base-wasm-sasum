@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-sasum@esm/index.mjs';
+import sasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-sasum@v0.1.0-esm/index.mjs';
 ```
 
 #### sasum.main( N, x, strideX )
@@ -276,7 +276,7 @@ The function has the following additional parameters:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import sasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-sasum@esm/index.mjs';
+import sasum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-sasum@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
